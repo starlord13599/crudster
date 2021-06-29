@@ -1,0 +1,17 @@
+.AddForm {
+    margin: 2rem auto;
+    border: .2rem solid #ececec;
+    padding: 2rem 4rem;
+    width: 40%;
+    border-radius: 5px;
+
+}
+
+.AddForm-row {
+    margin-bottom: 1rem;
+}
+
+.AddForm-button {
+    margin-top: 1rem;
+
+}
